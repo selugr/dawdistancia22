@@ -2,7 +2,7 @@
 /**
   *  @author José Luis González Ruiz
   *  @version 1.0
-  *  @internal Este documento parte de una base suministrada por el profesor
+  *  @internal Modificación en el fichero para subida a git
 */
 
   /**
